@@ -372,12 +372,17 @@ snmpwalk -v1 -c upsapc xxx.xxx.xxx.xxx .1.3.6.1.4.1.8072.1.3.2.4.1.2
 ```
 data success di konversi ke SNMP
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/d398f555-79d5-4b89-85e3-69a80bc81ca5)
-### OID 
+### OID Library
+⚠️ Pastikan kalian mengikuti konfigurasi Net-SNMP sesuai panduan, jika kalian custom silahkan dan silahkan research bersama 
+Kalian bisa cek OID dari masing - masing parameter di sini -> https://github.com/eunbiline98/UPS-Online-NUT/blob/main/OIDexplainer.md
+
+# Hasil
 ### HAVE A LOT OF FUN!
 Kalian bisa memonitoring dengan cara mengakses gateway NUT di browser untuk mengtahui kondisi parameter saat ini -> http://xxx.xxx.xxx.xxx/cgi-bin/nut/upsstats.cgi
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/9d2d181b-aaf1-42aa-8ad6-52d44a602b1f)
 Kalian juga bisa memasukan data SNMP yang sudah kalian konversi ke NMS untuk mmenyimpan record data, alert dan fungsi lain di NMS, seperti contoh saya menggunakan NMS PRTG 
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/720e2eb4-2cc8-4c00-a1eb-bcf7f3cbef53)
+
 
 
 
