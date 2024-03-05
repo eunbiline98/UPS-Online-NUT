@@ -380,7 +380,7 @@ Kalian bisa cek OID dari masing - masing parameter di sini -> https://github.com
 ### HAVE A LOT OF FUN!
 Kalian bisa memonitoring dengan cara mengakses gateway NUT di browser untuk mengtahui kondisi parameter saat ini -> http://xxx.xxx.xxx.xxx/cgi-bin/nut/upsstats.cgi
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/9d2d181b-aaf1-42aa-8ad6-52d44a602b1f)
-Kalian juga bisa memasukan data SNMP yang sudah kalian konversi ke NMS untuk mmenyimpan record data, alert dan fungsi lain di NMS, seperti contoh saya menggunakan NMS PRTG 
+Kalian juga bisa memasukan data SNMP yang sudah kalian konversi ke NMS untuk menyimpan record data, alert dan fungsi lain yang ada di NMS, seperti contoh saya menggunakan NMS PRTG 
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/720e2eb4-2cc8-4c00-a1eb-bcf7f3cbef53)
 
 
