@@ -373,7 +373,7 @@ snmpwalk -v1 -c upsapc xxx.xxx.xxx.xxx .1.3.6.1.4.1.8072.1.3.2.4.1.2
 data success di konversi ke SNMP
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/d398f555-79d5-4b89-85e3-69a80bc81ca5)
 ### OID Library
-⚠️ Pastikan kalian mengikuti konfigurasi Net-SNMP sesuai panduan, jika kalian custom silahkan dan silahkan research bersama 
+⚠️ Pastikan kalian mengikuti konfigurasi Net-SNMP sesuai panduan, jika kalian custom silahkan research bersama 
 Kalian bisa cek OID dari masing - masing parameter di sini -> https://github.com/eunbiline98/UPS-Online-NUT/blob/main/OIDexplainer.md
 
 # Hasil
