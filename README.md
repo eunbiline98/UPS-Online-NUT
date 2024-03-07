@@ -1,5 +1,5 @@
 # How to configure gateway NUT &amp; conversion data with SNMP Protocol V1 or V2c
-- Apa? Skrip dasar yang menginstal Network UPS Tools (NUT) dan beberapa paket lainnya.
+- Apa? Script dasar yang menginstal Network UPS Tools (NUT) dan beberapa paket lainnya.
 - Bagaimana? Dengan mengunduh skrip kami dan menjalankannya di Raspberry Pi atau sistem Linux serupa.
 - Mengapa? Jadi Anda dapat memiliki pemantauan HTTP dan SNMP v1 / v2c dalam beberapa menit setelah menjalankan skrip.
 Tentu saja, ada lebih banyak yang mungkin ingin Anda lakukan dengan perangkat lunak UPS Anda seperti menambahkan konfigurasi shutdown, memantau beberapa UPS, atau memperkuat pengaturan dengan protokol terenkripsi dan konfigurasi aman. 
@@ -382,7 +382,5 @@ Kalian bisa memonitoring dengan cara mengakses gateway NUT di browser untuk meng
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/9d2d181b-aaf1-42aa-8ad6-52d44a602b1f)
 Kalian juga bisa memasukan data SNMP yang sudah kalian konversi ke NMS untuk menyimpan record data, alert dan fungsi lain yang ada di NMS, seperti contoh saya menggunakan NMS PRTG 
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/720e2eb4-2cc8-4c00-a1eb-bcf7f3cbef53)
-
-
 
 
