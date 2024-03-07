@@ -1,4 +1,4 @@
-# How to konfigurasi gateway NUT &amp; conversion data with SNMP Protocol V1 or V2c
+# How to configure gateway NUT &amp; conversion data with SNMP Protocol V1 or V2c
 - Apa? Skrip dasar yang menginstal Network UPS Tools (NUT) dan beberapa paket lainnya.
 - Bagaimana? Dengan mengunduh skrip kami dan menjalankannya di Raspberry Pi atau sistem Linux serupa.
 - Mengapa? Jadi Anda dapat memiliki pemantauan HTTP dan SNMP v1 / v2c dalam beberapa menit setelah menjalankan skrip.
