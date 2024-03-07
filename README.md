@@ -383,4 +383,7 @@ Kalian bisa memonitoring dengan cara mengakses gateway NUT di browser untuk meng
 Kalian juga bisa memasukan data SNMP yang sudah kalian konversi ke NMS untuk menyimpan record data, alert dan fungsi lain yang ada di NMS, seperti contoh saya menggunakan NMS PRTG 
 ![image](https://github.com/eunbiline98/UPS-Online-NUT/assets/50385294/720e2eb4-2cc8-4c00-a1eb-bcf7f3cbef53)
 
+# Issue
+Jika kalian mendapatkan kendala yang belum terselesaikan kalian bisa membuat ticket issue di -> https://github.com/eunbiline98/UPS-Online-NUT/issues
+
 
